@@ -1,0 +1,21 @@
+{
+  "name": "melifluoonlinemenu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "postcss src/main.css -o build/tailwind.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1"
+  }
+}

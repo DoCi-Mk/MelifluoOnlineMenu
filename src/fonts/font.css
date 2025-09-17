@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Peyda';
+    src:	url("./eot/PeydaWeb-Medium.eot"); /* IE9 Compat Modes */
+    src:	
+    url('./eot/PeydaWeb-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('./woff2/PeydaWeb-Medium.woff2') format('woff2'), /* Modern Browsers */
+        url('./woff/PeydaWeb-Medium.woff') format('woff'), /* Modern Browsers */
+        url("./Peyda-Bold.ttf") format('truetype'); /* Safari, Android, iOS */
+    font-weight: 500;
+    font-style: normal; 
+    text-rendering: optimizeLegibility;
+    font-display: auto;
+}
+
+@font-face {
+    font-family: 'Peyda';
+    src:	url("./eot/PeydaWeb-Bold.eot"); /* IE9 Compat Modes */
+    src:	
+    url('./eot/PeydaWeb-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('./woff2/PeydaWeb-Bold.woff2') format('woff2'), /* Modern Browsers */
+        url('./woff/PeydaWeb-Bold.woff') format('woff'), /* Modern Browsers */
+        url("./Peyda-Bold.ttf") format('truetype'); /* Safari, Android, iOS */
+    font-weight: 700;
+    font-style: normal; 
+    text-rendering: optimizeLegibility;
+    font-display: auto;
+}
+
+html { font-family: 'Peyda'; font-weight:700  }
+p { font-family: 'Peyda'; font-weight:500  }

@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom scrollbar style */
+.scrollbar-custom {
+    scrollbar-width: thin; /* Firefox */
+    scrollbar-color: #0a0aa8 transparent; /* Firefox */
+  }
+  
+  /* Chrome, Edge, Safari */
+  .scrollbar-custom::-webkit-scrollbar {
+    height: 2px; /* for horizontal scroll */
+    width: 2px; /* for vertical scroll (optional) */
+  }
+
+.scrollbar-custom::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background-color: #0a0aa8;
+  border-radius: 100%;
+}

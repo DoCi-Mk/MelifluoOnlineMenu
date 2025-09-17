@@ -1,0 +1,113 @@
+export const cakeProducts = [
+  {
+    id: 1,
+    title: "مِدوویک",
+    description: "کرم&zwnj;نسکافه | بیسکوییت&zwnj;عسلی",
+    price: 165,
+    imageUrl: "src/images/products/C-01.png",
+  },
+  {
+    id: 1,
+    title: "بلک&zwnj;فارست",
+    description: "کیک&zwnj;براونی | میکس&zwnj;بری",
+    price: 195,
+    imageUrl: "src/images/products/C-02.png",
+  },
+  {
+    id: 1,
+    title: "کیک&zwnj;وی",
+    description: "پودرِوی | آردچاودار | شیره&zwnj;توت | تخم&zwnj;مرغ",
+    price: 125,
+    imageUrl: "src/images/products/C-03.png",
+  },
+  {
+    id: 1,
+    title: "کوکی&zwnj;نیویورکی (کره&zwnj;بادام&zwnj;زمینی&zwnj;و&zwnj;شکلات )",
+    description: "",
+    price: 109,
+    imageUrl: "src/images/products/C-04.png",
+  },
+  {
+    id: 1,
+    title: "کوکی&zwnj;نیویورکی ( شکلات&zwnj;فندقی )",
+    description: "",
+    price: 115,
+    imageUrl: "src/images/products/C-05.png",
+  },
+  {
+    id: 1,
+    title: "کوکی&zwnj;جو&zwnj;دوسر",
+    description: "جودوسر | کشمش | دارچین | عسل",
+    price: 72,
+    imageUrl: "src/images/products/C-06.png",
+  },
+  {
+    id: 1,
+    title: "کوکی&zwnj;رژیمی&zwnj;بادوم&zwnj;زمینی",
+    description: "شیره&zwnj;خرما | کره&zwnj;بادام&zwnj;زمینی | آردِجو",
+    price: 49,
+    imageUrl: "src/images/products/C-07.png",
+  },
+  {
+    id: 1,
+    title: "کوکی&zwnj;رژیمی&zwnj;چیا",
+    description: "دانه&zwnj;چیا | لیمو | عسل | آردجو",
+    price: 49,
+    imageUrl: "src/images/products/C-08.png",
+  },
+  {
+    id: 1,
+    title: "کیک&zwnj;خرما",
+    description: "خرما | آردِجو | روغن&zwnj;زیتون",
+    price: 115,
+    imageUrl: "src/images/products/C-09.png",
+  },
+
+  {
+    id: 1,
+    title: "کرافین&zwnj;شکلاتی",
+    description: "خمیرهزارلا | کرم&zwnj;پتیسیر",
+    price: 150,
+    imageUrl: "src/images/products/C-11.png",
+  },
+  {
+    id: 1,
+    title: "دسر&zwnj;قهوه",
+    description: "کرم&zwnj;قهوه | کرم&zwnj;کاراملی | اسپانج&zwnj;براونی",
+    price: 165,
+    imageUrl: "src/images/products/C-13.png",
+  },
+  {
+    id: 1,
+    title: "کروسان&zwnj;ساده",
+    description: "خمیرهزارلایه",
+    price: 130,
+    imageUrl: "src/images/products/C-14.png",
+  },
+  {
+    id: 1,
+    title: "کروسان&zwnj;فندقی",
+    description: "همیرهزارلایه | کرم&zwnj;فندقی",
+    price: 179,
+    imageUrl: "src/images/products/C-16.png",
+  },
+  {
+    id: 1,
+    title: "سوییس&zwnj;پَن",
+    description: "خمیرهزارلا | کرم&zwnj;پتیسیر | شکلات",
+    price: 150,
+    imageUrl: "src/images/products/C-15.png",
+  },
+  {
+    id: 1,
+    title: "کروسان&zwnj;کره&zwnj;بادام&zwnj;زمینی&zwnj;وموز",
+    description: "خمیرهزارلا | کره&zwnj;بادام&zwnj;زمینی | موز",
+    price: 205
+  },
+  {
+    id: 1,
+    title: "کروسان&zwnj;نوتلا",
+    description: "خمیرهزارلا | نوتلا",
+    price: 235
+  },
+];
